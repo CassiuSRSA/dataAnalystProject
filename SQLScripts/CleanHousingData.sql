@@ -77,7 +77,7 @@ SET SoldAsVacant =
 
 -- Remove Duplicates
 WITH RowNumCTE AS(
-SELECT *,
+SELECT ParcelID,
 	ROW_NUMBER() OVER(
 	PARTITION BY	ParcelID,
 					PropertyAddress,
