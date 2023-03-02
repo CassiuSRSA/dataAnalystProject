@@ -1,17 +1,9 @@
-SELECT *
-FROM NashvilleHousing
-
-
 -- Fix Sale Date Format
 
 ALTER TABLE NashvilleHousing
 ALTER COLUMN SaleDate Date
 
 -- Property Address
-
-SELECT *
-FROM NashvilleHousing
-ORDER BY ParcelID
 
 SELECT a.ParcelID, a.PropertyAddress, b.ParcelID,b.PropertyAddress, ISNULL(a.PropertyAddress, b.PropertyAddress)
 FROM NashvilleHousing a
@@ -29,10 +21,6 @@ SET PropertyAddress = ISNULL(a.PropertyAddress, b.PropertyAddress)
 	WHERE a.PropertyAddress is null
 
 -- Seperating Address into seperate columns i.e Address, City and State
-
-SELECT PropertyAddress
-FROM NashvilleHousing
-ORDER BY ParcelID
 
 -- Focus on Property Address
 -- Using SUBSTRING and CHARINDEX
