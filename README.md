@@ -17,3 +17,11 @@ In this project I looked at cleaning data from Nashville Housing data.
 ##### SQL Skills Used:
 
 Joins, CTE's, Windows Functions, Aggregate Functions, CASE statements
+
+## Project 3: Excel Dashboard
+
+In this project I take a look at some bike sales data, cleaned the raw data up, created pivot tables for various insights and then finally set up a neatly designed dashboard.
+
+##### Excel Skills Used:
+
+Removing Duplicates, Find and Replace, Pivot Tables, Graphs, Slicers
