@@ -26,7 +26,7 @@ In this project I take a look at some bike sales data, cleaned the raw data up, 
 
 Removing Duplicates, Find and Replace, Pivot Tables, Graphs, Slicers
 
-## Project 3: Tableau Dashboard Project
+## Project 4: Tableau Dashboard Project
 
 In this project I pretended to do an analysis of Airbnb data for a client looking to find out where to buy and what kind of property to buy when it comes to Airbnbs.
 
