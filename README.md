@@ -1,6 +1,6 @@
 # My Data Analyst Projects
 
-This repository showcases my SQL skills when it comes to working with data.
+This repository showcases my SQL, Excel and Tableau skills when it comes to working with data.
 
 ## Project 1: Covid Data
 
