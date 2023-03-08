@@ -4,7 +4,7 @@ This repository showcases my SQL, Excel and Tableau skills when it comes to work
 
 ## Project 1: Covid Data
 
-In this project  I dive into Covid stats looking at country, continental and global stats with regards to deaths and vaccinations.
+In this project I dive into Covid stats looking at country, continental and global stats with regards to deaths and vaccinations.
 
 ##### SQL Skills Used:
 
@@ -30,5 +30,13 @@ Removing Duplicates, Find and Replace, Pivot Tables, Graphs, Slicers
 
 In this project I pretended to do an analysis of Airbnb data for a client looking to find out where to buy and what kind of property to buy when it comes to Airbnbs.
 
-
 Check out this project on my [Tableau Public Page](https://public.tableau.com/app/profile/sean.brookstein/viz/AirBnbDash_16781144404070/Dashboard1#1)
+
+## Project 4: Power BI Project
+
+In this project I analysed data obtained through a survey of people working as data professionals or looking to work as data professionals.
+
+##### Power BI Skills Used:
+
+Cleaned data in Power Query, removing unnecessary columns and getting data ready for easy visualization in Power BI.
+Once data was cleaned I could build a dashboard showing various insights into the dataset. I made sure to use a variety of visuals that really highlight data displayed.
