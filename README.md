@@ -32,7 +32,7 @@ In this project I pretended to do an analysis of Airbnb data for a client lookin
 
 Check out this project on my [Tableau Public Page](https://public.tableau.com/app/profile/sean.brookstein/viz/AirBnbDash_16781144404070/Dashboard1#1)
 
-## Project 4: Power BI Project
+## Project 5: Power BI Project
 
 In this project I analysed data obtained through a survey of people working as data professionals or looking to work as data professionals.
 
