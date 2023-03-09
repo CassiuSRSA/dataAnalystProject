@@ -40,3 +40,7 @@ In this project I analysed data obtained through a survey of people working as d
 
 Cleaned data in Power Query, removing unnecessary columns and getting data ready for easy visualization in Power BI.
 Once data was cleaned I could build a dashboard showing various insights into the dataset. I made sure to use a variety of visuals that really highlight data displayed.
+
+## Project 6: Python File Sorter
+
+In this project I used Python to check files in a folder and then create folders for those files based on their extensions. It will then copy files from initial folder into neatly sorted folders based on extensions.
